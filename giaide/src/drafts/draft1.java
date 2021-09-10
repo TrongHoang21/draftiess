@@ -5,7 +5,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
 //Cách đơn giản nhất là bufferedReader rồi parse
-//Còn làm kiểu file nhị phân thì dataInputStream(new FileInputStream) rồi ghi...
+//Còn làm kiểu file nhị phân thì dataInputStream(new FileInputStream) rồi ghi
 
 public class draft1 {
     public static void main(String[] args) throws IOException {
